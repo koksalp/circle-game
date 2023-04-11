@@ -11,7 +11,7 @@ This is a multiplayer game, thus; up to 4 players can play together simultaneous
 - Use keys on your keyboard (make sure caps lock is off) to move your circle
 
 ### Player Keys (Up, Left, Down, Right)
-First player can use arrow keys 
-Second player can use wasd 
-Third player can use ujhk 
-Fourth player can use 8546 
+- First player can use arrow keys 
+- Second player can use wasd 
+- Third player can use ujhk 
+- Fourth player can use 8546 
