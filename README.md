@@ -4,7 +4,7 @@
 A simple multiplayer browser game made with canvas where players need to avoid hitting circles that are coming towards them. Features such as size, color and velocity of circles that players should escape from can be different depending on the difficulty of the game. 
 
 ## How to play 
-This is a multiplayer game, thus; up to 4 players can play together simultaneously. Instructions are listed below. 
+This is a multiplayer game, thus up to 4 players can play together simultaneously. Instructions are listed below. 
 
 - Select number of players 
 - Select difficulty 
