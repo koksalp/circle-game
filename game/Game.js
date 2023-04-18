@@ -1,4 +1,4 @@
-import Player from "./Player";
+import Player from "./Player.js";
 import EnemyDot from "./EnemyDot.js";
 import Btn from "./Button.js";
 
